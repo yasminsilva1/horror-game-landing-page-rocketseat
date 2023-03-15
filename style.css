@@ -53,15 +53,23 @@ a {
     line-height: 24px;
     color: #FFFFFF;
     opacity: 0.6;
+
+    text-underline-offset: 0.2em;
 }
 
 .btn-play {
-    font-weight: 700;
-    font-size: 20px;
-    line-height: 24px;
     color: #040101;
-    
+    opacity: 1;
     text-decoration: none;
     background-color: #FFC700;
+    border-radius: 50px;
+}
+
+a:hover {
+    text-decoration: underline 2px;
+    text-underline-offset: 0.2em;
+    color: #040101;
+    background-color: #FFC700;
+    opacity: 1;
     border-radius: 50px;
 }
