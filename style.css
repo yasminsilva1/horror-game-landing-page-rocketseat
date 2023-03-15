@@ -28,3 +28,11 @@ h3 {
 h3 > span {
     color: #FFC700;
 }
+
+h1 {
+    font-family: 'Emilys Candy', cursive;
+    font-weight: 400;
+    font-size: 64px;
+    line-height: 80px;
+    color: #FFC700
+}
