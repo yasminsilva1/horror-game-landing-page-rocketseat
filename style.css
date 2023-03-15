@@ -4,3 +4,16 @@
     margin: 0;
     box-sizing: border-box;
 }
+
+body {
+    text-align: center;
+    padding-top: 160px;
+    background-image: url(./img/background-image.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+
+    height: 100vh;
+
+    font-family: 'Inter', sans-serif;
+}
