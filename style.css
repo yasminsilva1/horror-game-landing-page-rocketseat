@@ -54,3 +54,14 @@ a {
     color: #FFFFFF;
     opacity: 0.6;
 }
+
+.btn-play {
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 24px;
+    color: #040101;
+    
+    text-decoration: none;
+    background-color: #FFC700;
+    border-radius: 50px;
+}
