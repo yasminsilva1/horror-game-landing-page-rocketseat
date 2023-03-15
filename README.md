@@ -22,7 +22,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-A criação desta landing page de um jogo de terror é o porjeto principal desenvolvido no evendo "Jornada do Zero à Primeira Vaga" da Rocketseat.
+A criação desta landing page, sobre um jogo de terror, é o projeto principal desenvolvido no evendo "Jornada do Zero à Primeira Vaga" da Rocketseat.
 
 ---
 
