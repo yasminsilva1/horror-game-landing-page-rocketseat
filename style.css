@@ -17,3 +17,14 @@ body {
 
     font-family: 'Inter', sans-serif;
 }
+
+h3 {
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 19px;
+    color: #FFFFFF;
+}
+
+h3 > span {
+    color: #FFC700;
+}
